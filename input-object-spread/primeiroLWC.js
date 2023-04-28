@@ -1,6 +1,6 @@
 import { LightningElement, track } from 'lwc';
 
-export default class Lwc_iii_2 extends LightningElement {   
+export default class primeiroLWC extends LightningElement {   
 
    inputs = {
       firstname: '',
